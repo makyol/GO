@@ -9,3 +9,8 @@ import (
 func main() {
 	fmt.Println(quote.Hello())
 }
+
+/*
+To be continued
+https://golang.org/doc/tutorial/create-module
+*/
